@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-eau1hs.date-me.pro/sitemap.xml
